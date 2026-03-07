@@ -1,12 +1,14 @@
 # Laboratorio 1: Estructura de Proyecto ML - UdeA
 
-Este repositorio contiene la configuración inicial y la estructura de directorios profesional para un proyecto de Machine Learning, siguiendo las mejores prácticas de ingeniería de software.
+Este es mi proyecto para el laboratorio de Analítica de Datos. Aquí tengo organizada toda la estructura, las carpetas y los modelos que hemos trabajado en clase.
+
+Realizado por: Juan Diego
 
 ## 📂 Estructura del Proyecto
 
-* **Data/**: Almacenamiento de datasets (brutos y procesados).
+* **Data/**: Almacenamiento de datasets.
 * **models/**: Modelos de ML entrenados (Random Forest, XGBoost, etc.).
-* **notebooks/**: Jupyter Notebooks para análisis exploratorio (EDA).
+* **notebooks/**: EDA, modeling y evaluation.
 * **reports/**: Figuras y tablas resultantes del análisis.
 * **src/**: Código fuente modularizado para preprocesamiento y entrenamiento.
 
